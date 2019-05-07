@@ -1,0 +1,8 @@
+This repository has the full code for the project.
+I have also added a few Audio Samples for you to upload and test.
+
+To start -
+
+1. conda activate tf_gpu
+2. python emo-rec.py (after navigating to the directory to where you have pulled)
+3. (After server starts) Go to browser and type- localhost:5000 
